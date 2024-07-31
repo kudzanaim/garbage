@@ -8,4 +8,4 @@ COPY default.conf /etc/nginx/conf.d/default.conf
 COPY . /usr/share/nginx/html
 
 # Expose port 80 (default for nginx)
-EXPOSE 8080
+EXPOSE 80
