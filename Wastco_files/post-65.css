@@ -1762,6 +1762,12 @@ body:not(.rtl) .elementor-65 .elementor-element.elementor-element-0898020 .eleme
   margin-bottom: 0px;
 }
 
+@media (max-width: 850px) {
+  .elementor-65 .elementor-element.elementor-element-e49c10a {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+}
 .elementor-bc-flex-widget .elementor-65 .elementor-element.elementor-element-9681d30.elementor-column .elementor-widget-wrap {
   align-items: flex-end;
 }
